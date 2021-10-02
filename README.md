@@ -10,6 +10,7 @@
 - in background
 `docker run -d -p 6379:6379 redis`
 - example to ceate container name redis-local:
+
 `docker run --name redis-local -d -p 6379:6379 redis`
 
 #### connect to redis cli in docker:
